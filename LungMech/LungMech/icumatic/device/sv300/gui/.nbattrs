@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="CurveDataDisplayFrame.java">
+        <attr name="class_dependency_javax.swing.JFrame" stringvalue="CurveDataDisplayFrame"/>
+    </fileobject>
+    <fileobject name="DisplaySV300Measurements.java">
+        <attr name="class_dependency_java.util.Observer" stringvalue="DisplaySV300Measurements"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="DisplaySV300Measurements"/>
+    </fileobject>
+    <fileobject name="JRealTimePlotter.java">
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="JRealTimePlotter_stopButton_actionAdapter;JRealTimePlotter_startButton_actionAdapter;JRealTimePlotter_resetButton_actionAdapter"/>
+        <attr name="class_dependency_java.beans.PropertyChangeListener" stringvalue="JRealTimePlotter"/>
+        <attr name="class_dependency_javax.swing.JApplet" stringvalue="JRealTimePlotter"/>
+    </fileobject>
+    <fileobject name="PseudoRealTimeData.java">
+        <attr name="EA-OpenIDE-Connection" serialvalue="aced0005737200146a6176612e7574696c2e4c696e6b65644c6973740c29535d4a608822030000787077040000000078"/>
+        <attr name="class_dependency_gov.noaa.pmel.sgt.dm.SGTLine" stringvalue="PseudoRealTimeData"/>
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="PseudoRealTimeData"/>
+    </fileobject>
+    <fileobject name="ReplayController.java">
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="ReplayController"/>
+    </fileobject>
+    <fileobject name="SV300MeasurementDisplay.java">
+        <attr name="class_dependency_java.util.Observer" stringvalue="SV300MeasurementDisplay"/>
+        <attr name="class_dependency_javax.swing.JPanel" stringvalue="SV300MeasurementDisplay"/>
+    </fileobject>
+    <fileobject name="UpperPressLimitSetting.java">
+        <attr name="class_dependency_java.util.Observer" stringvalue="UpperPressLimitSetting"/>
+        <attr name="class_dependency_javax.swing.JPanel" stringvalue="UpperPressLimitSetting"/>
+    </fileobject>
+</attributes>

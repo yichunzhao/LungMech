@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="Indicator.java">
+        <attr name="class_dependency_java.util.Observer" stringvalue="Indicator"/>
+        <attr name="class_dependency_javax.swing.JPanel" stringvalue="Indicator"/>
+    </fileobject>
+    <fileobject name="Reminder.java">
+        <attr name="class_dependency_java.util.TimerTask" stringvalue="RemindTask"/>
+    </fileobject>
+    <fileobject name="ReminderBeep.java">
+        <attr name="class_dependency_java.util.TimerTask" stringvalue="ReminderBeep.RemindTask"/>
+    </fileobject>
+    <fileobject name="SimpleFileFilter.java">
+        <attr name="class_dependency_javax.swing.filechooser.FileFilter" stringvalue="SimpleFileFilter"/>
+    </fileobject>
+</attributes>
